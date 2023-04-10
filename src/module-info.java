@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author WINDOWS
+ *
+ */
+module SampleJavaTesting {
+}
